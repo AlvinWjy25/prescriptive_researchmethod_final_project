@@ -1,0 +1,6 @@
+{
+    "python-envs.defaultEnvManager": "ms-python.python:conda",
+    "python-envs.defaultPackageManager": "ms-python.python:conda",
+    "python.defaultInterpreterPath": "C:\\Users\\Alvin\\miniconda3\\envs\\pds_env\\python.exe",
+    "python.terminal.activateEnvInTerminal": true
+}
